@@ -7,7 +7,7 @@ maps = ['Reserve', 'Factory' , 'Customs' , 'Interchange' , 'Woods' , 'Shoreline'
 #Change this line to True if you have a labs card
 labs = False
 
-if labs == True:
+if labs:
     maps.append("Labs")
 
 else:
