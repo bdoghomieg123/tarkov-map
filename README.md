@@ -4,4 +4,4 @@ Literally just install Python, and this. That's all. www.python.org. that's it. 
 
 
 To Run:
-Install Geany Text editor, open this file in Geany and press F5.
+Install Geany Text editor (www.geany.org), open this file in Geany and press F5.
