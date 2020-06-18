@@ -16,6 +16,6 @@ for x in range(10):
 
     print("Go fuck yourself")
 
-
-
     time.sleep(1)
+
+print(f'Play the map: {rando.choice(maps)}')
