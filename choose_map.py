@@ -10,10 +10,6 @@ labs = False
 if labs:
     maps.append("Labs")
 
-else:
-    print("Continuing")
-
-
 for x in range(10):
 
 
