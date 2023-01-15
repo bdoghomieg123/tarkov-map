@@ -2,7 +2,7 @@
 import random as rando
 import time
 
-maps = ['Reserve', 'Factory' , 'Customs' , 'Interchange' , 'Woods' , 'Shoreline']
+maps = ['Reserve', 'Factory' , 'Customs' , 'Interchange' , 'Woods' , 'Shoreline' , 'Lighthouse' , 'Streets of Tarkov']
 
 #Change this line to True if you have a labs card
 labs = False
