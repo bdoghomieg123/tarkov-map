@@ -12,9 +12,7 @@ if labs:
 
 for x in range(10):
 
-
-
-    print("Go fuck yourself")
+    print("Loading...")
 
     time.sleep(1)
 
